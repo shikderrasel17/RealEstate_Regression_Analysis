@@ -1,0 +1,52 @@
+Home Health Agencies (HHAs) in the U.S. provide healthcare services to individuals in their homes, primarily for patients who are recovering from surgery, illness, or managing chronic conditions. These services can include nursing care, physical therapy, speech therapy, occupational therapy, and assistance with activities of daily living. HHAs are often utilized by elderly patients, individuals with disabilities, and those who need long-term care but prefer to remain at home instead of in a hospital or nursing facility. This dataset includes only the data of Private Equity-owned HHAs across the United States.
+
+
+Variable Name Definitions: 
+
+
+Quality of patient care star rating: Star_Rating
+
+How often the home health team began their patients' care in a timely manner: Timely_Care_Start
+
+How often physician-recommended actions to address medication issues were completely timely: Timely_Medication
+
+How often the home health team taught patients (or their family caregivers) about their drugs: Taught_Drugs
+
+How often the home health team determined whether patients received a flu shot for the current flu season: Flu_Shot
+
+Changes in skin integrity post-acute care pressure ulcer/injury: Changes_in_Skin_Integrity_Post_Acute
+
+How often a patient had one or more falls with a major injury: Fall_Risk
+
+How often a patient has an admission and discharge functional assessment and an admission care plan that addresses function: Care_Plan_that_Addresses_Function
+
+Observed Discharge to Community Rate: DTC_Observed_Rate
+
+Observed Potentially Preventable Readmissions Rate: PPR_Observed_Rate
+
+How much Medicare spends on an episode of care at this agency, compared to Medicare spending across all agencies nationally: Medicare_Spends_Compared_to_National_Per_ep
+
+Number of episodes of care used to calculate how much Medicare spends on an episode of care at this agency, compared to Medicare spending across all agencies nationally: Number_of_ep_Compared_to_National
+
+How often patients got better at walking or moving around: Better_Walk
+
+How often patients got better at getting in and out of bed: Better_bed
+
+How often patients got better at bathing: Better_Bath
+
+How often patients' breathing improved: Better_Breath
+
+How often patients got better at taking their drugs correctly by mouth: Better_Drug
+
+How often home health patients had to be admitted to the hospital: Hospital_Admission
+
+How often patients receiving home health care needed urgent, unplanned care in the ER without being admitted: ER_Visit
+
+
+
+
+
+
+
+
+
